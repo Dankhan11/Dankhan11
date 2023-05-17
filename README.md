@@ -1,7 +1,7 @@
 ### 🏂 Danial Khan
  `Digital Craftsman (Developer/Engineer/Creator/Tech guy)`
 
-I am a Software Engineer based in London. I am currently a Computer Science student at Queen Mary University of London. I have great interest in fields such as AI , Blockchain and Deep Learning. Feel free to check out my Medium and Twitter link, where I share my thoughts and insights on the latest developments in the industry, whilst also documenting things I learn on the way.
+I am a Software Engineer based in London, currently a Computer Science student at Queen Mary University of London. I have great interest in fields such as AI , Blockchain and Deep Learning. Feel free to check out my Medium and Twitter link, where I share my thoughts and insights on the latest developments in the industry, whilst also documenting things I learn on the way.
 
 
 <h3 align="left">Connect with me:</h3>
