@@ -3,9 +3,6 @@
 
 I am a Software Engineer based in London. I am currently a Computer Science student at Queen Mary University of London. I have great interest in fields such as AI , Blockchain and Deep Learning. Feel free to check out my Medium and Twitter link, where I share my thoughts and insights on the latest developments in the industry, whilst also documenting things I learn on the way.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dankhan11" alt="dankhan11" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/not_dan11" target="blank"><img src="https://img.shields.io/twitter/follow/not_dan11?logo=twitter&style=for-the-badge" alt="not_dan11" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
