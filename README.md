@@ -6,7 +6,7 @@ I am a Software Engineer based in London, currently a Computer Science student a
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/not_dan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not_dan11" height="30" width="40" /></a>
+
 <a href="https://medium.com/@khandanial114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khandanial114" height="30" width="40" /></a>
 </p>
 
