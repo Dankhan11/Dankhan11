@@ -1,7 +1,9 @@
 ### 🏂 Hi I'm Danial.
  `Digital Craftsman (Developer/Engineer/Creator/Tech guy)`
 
-I am a data scientist/software/machine learning engineer based in London, currently a Computer Science student at Queen Mary University of London. I have great interest in fields such as AI , Blockchain and Deep Learning. Feel free to check out my Medium link, where I share my thoughts and insights on the latest developments in the industry, whilst also documenting things I learn on the way.
+ 
+Turning messy data into meaningful decisions. Proactive and impact-focused Data Engineer with a passion for building robust, scalable data pipelines and streamlining end-to-end ETL processes that power smarter decision-making. Experienced in Python and SQL, with a strong foundation in big data systems, machine learning pipelines, and real-time analytics. I combine technical expertise with creativity, initiative, and communication to deliver actionable insights that drive innovation and business growth. Always learning, always building with a bias for clean design, speed, and measurable impact.
+
 
 
 <h3 align="left">Connect with me:</h3>
